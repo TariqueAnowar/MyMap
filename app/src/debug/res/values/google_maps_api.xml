@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=EF:A6:B3:5E:CE:F6:36:A1:A7:74:92:78:32:43:F3:04:1E:0B:4D:95%3Bcom.tarique.mymap
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.tarique.mymap
+
+    SHA-1 certificate fingerprint:
+    EF:A6:B3:5E:CE:F6:36:A1:A7:74:92:78:32:43:F3:04:1E:0B:4D:95
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDwcceIXOsJ58NXeB0iGyFUJRK4a1y_N4Y</string>
+</resources>
